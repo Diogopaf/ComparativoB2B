@@ -1,0 +1,6 @@
+{
+  "name": "B2B Product Comparison Engine",
+  "description": "A multi-tenant SaaS for B2B product comparisons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
